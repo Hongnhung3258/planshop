@@ -591,7 +591,7 @@ if ( ! class_exists( 'Astra_Sites_Analytics' ) ) {
 			$stats['finish_setup_menu_position'] = $menu_priority;
 
 			// Plain Json data.
-			$stats['courses_status'] = ! empty( $courses_status ) ? wp_json_encode( $courses_status ) : '';
+			// $stats['courses_status'] = ! empty( $courses_status ) ? wp_json_encode( $courses_status ) : '';
 		}
 
 		/**
