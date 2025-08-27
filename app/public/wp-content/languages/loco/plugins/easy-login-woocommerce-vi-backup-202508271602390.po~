@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: Login & Register Customizer – Popup | Slider | Inline | "
 "WooCommerce\n"
 "POT-Creation-Date: 2025-04-17 17:08+0530\n"
-"PO-Revision-Date: 2025-08-11 21:03+0000\n"
-"Last-Translator: \n"
+"PO-Revision-Date: 2025-08-27 16:02+0000\n"
+"Last-Translator: Hồng Nhung\n"
 "Language-Team: Tiếng Việt\n"
 "Language: vi\n"
 "MIME-Version: 1.0\n"
@@ -16,39 +16,38 @@ msgstr ""
 "X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e\n"
 "X-Poedit-SearchPath-0: easy-login-addon-security\n"
 "X-Poedit-SearchPath-1: easy-login-woocommerce\n"
-"\n"
 "Report-Msgid-Bugs-To: \n"
 "X-Loco-Version: 2.8.0; wp-6.8.2; php-8.2.27"
 
 #: easy-login-addon-security/class-xoo-sel-core.php:201
 msgid "Please verify you are a human."
-msgstr ""
+msgstr "Vui lòng xác minh bạn là người."
 
 #: easy-login-addon-security/class-xoo-sel-core.php:282
 msgid "Couldn't verify recaptcha. Please try again."
-msgstr ""
+msgstr "Không thể xác minh recaptcha. Vui lòng thử lại."
 
 #: easy-login-woocommerce/admin/class-xoo-el-aff-fields.php:651
 #: easy-login-woocommerce/admin/class-xoo-el-aff-fields.php:718
 #: easy-login-woocommerce/admin/class-xoo-el-aff-fields.php:948
 msgid "Username / Email"
-msgstr ""
+msgstr "Tên người dùng / Email"
 
 #: easy-login-woocommerce/admin/class-xoo-el-aff-fields.php:770
 msgid "Password"
-msgstr ""
+msgstr "Mật khẩu"
 
 #: easy-login-woocommerce/admin/class-xoo-el-aff-fields.php:828
 msgid "New Password"
-msgstr ""
+msgstr "Mật khẩu mới"
 
 #: easy-login-woocommerce/admin/class-xoo-el-aff-fields.php:891
 msgid "Confirm Password"
-msgstr ""
+msgstr "Xác nhận mật khẩu"
 
 #: easy-login-woocommerce/admin/class-xoo-el-menu-settings.php:15
 msgid "Login/Signup Popup"
-msgstr ""
+msgstr "Cửa sổ bật lên Đăng nhập/Đăng ký"
 
 #: easy-login-woocommerce/admin/class-xoo-el-menu-settings.php:66
 msgid "Add to menu"
@@ -58,16 +57,17 @@ msgstr ""
 #: easy-login-woocommerce/includes/class-xoo-el-frontend.php:283
 #: easy-login-woocommerce/includes/class-xoo-el-frontend.php:298
 msgid "Login"
-msgstr ""
+msgstr "Đăng nhập"
 
 #: easy-login-woocommerce/admin/views/settings/general.php:291
 #: easy-login-woocommerce/admin/views/settings/general.php:308
 msgid "Sign Up"
-msgstr ""
+msgstr "Đăng ký"
 
 #: easy-login-woocommerce/admin/views/settings/general.php:300
 msgid "Sign in"
 msgstr ""
+"Đăng nhập\n"
 
 #: easy-login-woocommerce/admin/views/settings/general.php:316
 msgid "Email Reset Link"
@@ -83,47 +83,48 @@ msgstr ""
 #: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:89
 #: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:176
 msgid "Username is required."
-msgstr ""
+msgstr "Tên người dùng là bắt buộc."
 
 #: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:93
 msgid "Please enter a valid email address."
-msgstr ""
+msgstr "Vui lòng nhập địa chỉ email hợp lệ."
 
 #: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:112
 msgid "Please enter your password to login"
-msgstr ""
+msgstr "Vui lòng nhập mật khẩu của bạn để đăng nhập"
 
 #: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:117
 msgid "We couldn't find your account."
-msgstr ""
+msgstr "Chúng tôi không tìm thấy tài khoản của bạn."
 
 #: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:122
 msgid "Please enter your details to register."
 msgstr ""
+"Vui lòng nhập thông tin của bạn để đăng ký.\n"
 
 #: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:122
 msgid "We couldn't find your account. Please register."
-msgstr ""
+msgstr "Chúng tôi không tìm thấy tài khoản của bạn. Vui lòng đăng ký."
 
 #: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:201
 msgid "Lost your password?"
-msgstr ""
+msgstr "Quên mật khẩu?"
 
 #: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:210
 msgid "Wrong password."
-msgstr ""
+msgstr "Mật khẩu sai."
 
 #: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:213
 msgid "Incorrect Email or Username."
-msgstr ""
+msgstr "Email hoặc tên người dùng không đúng."
 
 #: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:230
 msgid "Login successful"
-msgstr ""
+msgstr "Đăng nhập thành công"
 
 #: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:332
 msgid "Please enter an account password."
-msgstr ""
+msgstr "Vui lòng nhập mật khẩu tài khoản."
 
 #: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:336
 #: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:698
@@ -132,39 +133,46 @@ msgstr ""
 
 #: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:385
 msgid "Registration successful"
-msgstr ""
+msgstr "Đăng ký thành công"
 
 #: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:390
 msgid "Registration successful. Please <a class=\"xoo-el-login-tgr\">Login</a>"
 msgstr ""
+"Đăng ký thành công. Vui lòng <a class=\"xoo-el-login-tgr\">Đăng nhập</a>"
 
 #: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:395
 msgid ""
 "Your account was created successfully and a password has been sent to your "
 "email address"
 msgstr ""
+"Tài khoản của bạn đã được tạo thành công và mật khẩu đã được gửi đến địa chỉ "
+"email của bạn"
 
 #: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:395
 msgid "Your account was created successfully."
-msgstr ""
+msgstr "Tài khoản của bạn đã được tạo thành công."
 
 #: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:440
 msgid ""
 "An account is already registered with your email address. Please log in."
 msgstr ""
+"Một tài khoản đã được đăng ký bằng địa chỉ email của bạn. Vui lòng đăng nhập."
 
 #: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:444
 msgid "Please provide a valid email address."
 msgstr ""
+"Vui lòng cung cấp địa chỉ email hợp lệ.\n"
 
 #: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:456
 msgid "Please enter a valid account username."
-msgstr ""
+msgstr "Vui lòng nhập tên người dùng tài khoản hợp lệ."
 
 #: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:460
 msgid ""
 "An account is already registered with that username. Please choose another."
 msgstr ""
+"Đã có tài khoản được đăng ký với tên người dùng đó. Vui lòng chọn tên người "
+"dùng khác."
 
 #: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:485
 msgid ""
@@ -178,6 +186,9 @@ msgid ""
 "account, but may take several minutes to show up in your inbox. Please wait "
 "at least 10 minutes before attempting another reset."
 msgstr ""
+"Email đặt lại mật khẩu đã được gửi đến địa chỉ email bạn đã đăng ký cho tài "
+"khoản, nhưng có thể mất vài phút để hiển thị trong hộp thư đến. Vui lòng đợi "
+"ít nhất 10 phút trước khi thử đặt lại mật khẩu lần nữa."
 
 #: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:692
 #: easy-login-woocommerce/templates/global/xoo-el-resetpw-section.php:31
@@ -185,12 +196,16 @@ msgid ""
 "This key is invalid or has already been used. Please reset your password "
 "again if needed."
 msgstr ""
+"Khóa này không hợp lệ hoặc đã được sử dụng. Vui lòng đặt lại mật khẩu nếu "
+"cần."
 
 #: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:721
 msgid ""
 "Your password has been reset successfully! Please <a class=\"xoo-el-login-"
 "tgr\">Login</a>"
 msgstr ""
+"Mật khẩu của bạn đã được đặt lại thành công! Vui lòng <a class=\"xoo-el-"
+"login-tgr\">Đăng nhập</a>"
 
 #: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:764
 msgid "<strong>ERROR</strong>: Enter a username or email address."
@@ -198,7 +213,7 @@ msgstr ""
 
 #: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:773
 msgid "There is no account with that username or email address."
-msgstr ""
+msgstr "Không có tài khoản nào có tên người dùng hoặc địa chỉ email đó."
 
 #: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:816
 msgid "<strong>ERROR</strong>: Invalid username or email."
@@ -206,7 +221,7 @@ msgstr ""
 
 #: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:862
 msgid "Someone has requested a password reset for the following account:"
-msgstr ""
+msgstr "Có người đã yêu cầu đặt lại mật khẩu cho tài khoản sau:"
 
 #: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:864
 #, php-format
@@ -225,7 +240,7 @@ msgstr ""
 
 #: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:868
 msgid "To reset your password, visit the following address:"
-msgstr ""
+msgstr "Để đặt lại mật khẩu, hãy truy cập địa chỉ sau:"
 
 #: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:876
 #, php-format
@@ -239,7 +254,7 @@ msgstr ""
 
 #: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:962
 msgid "The email could not be sent."
-msgstr ""
+msgstr "Không thể gửi được email."
 
 #: easy-login-woocommerce/includes/class-xoo-el-form-handler.php:962
 msgid "Possible reason: your host may have disabled the mail() function."
@@ -251,24 +266,24 @@ msgstr ""
 
 #: easy-login-woocommerce/includes/class-xoo-el-frontend.php:63
 msgid "Change?"
-msgstr ""
+msgstr "Thay đổi?"
 
 #: easy-login-woocommerce/includes/class-xoo-el-frontend.php:261
 msgid "My account"
-msgstr ""
+msgstr "Tài khoản của tôi"
 
 #: easy-login-woocommerce/includes/class-xoo-el-frontend.php:266
 #: easy-login-woocommerce/includes/class-xoo-el-frontend.php:273
 msgid "Logout"
-msgstr ""
+msgstr "Đăng xuất"
 
 #: easy-login-woocommerce/includes/class-xoo-el-frontend.php:288
 msgid "Signup"
-msgstr ""
+msgstr "Đăng ký"
 
 #: easy-login-woocommerce/includes/class-xoo-el-frontend.php:293
 msgid "Lost Password"
-msgstr ""
+msgstr "Mất mật khẩu"
 
 #: easy-login-woocommerce/includes/class-xoo-el-helper.php:58
 #: easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php:344
@@ -277,37 +292,39 @@ msgstr ""
 
 #: easy-login-woocommerce/includes/xoo-el-functions.php:572
 msgid "Don't have an account? Signup now"
-msgstr ""
+msgstr "Bạn chưa có tài khoản? Đăng ký ngay"
 
 #: easy-login-woocommerce/includes/xoo-el-functions.php:576
 msgid "Already a member? Login"
-msgstr ""
+msgstr "Đã là thành viên? Đăng nhập"
 
 #: easy-login-woocommerce/templates/global/xoo-el-login-section.php:30
 msgid "Remember me"
-msgstr ""
+msgstr "Nhớ mật khẩu"
 
 #: easy-login-woocommerce/templates/global/xoo-el-login-section.php:32
 msgid "Forgot Password?"
-msgstr ""
+msgstr "Quên mật khẩu?"
 
 #: easy-login-woocommerce/templates/global/xoo-el-lostpw-section.php:24
 msgid ""
 "Lost your password? Please enter your username or email address. You will "
 "receive a link to create a new password via email."
 msgstr ""
+"Quên mật khẩu? Vui lòng nhập tên người dùng hoặc địa chỉ email của bạn. Bạn "
+"sẽ nhận được liên kết tạo mật khẩu mới qua email."
 
 #: easy-login-woocommerce/templates/global/xoo-el-resetpw-section.php:35
 msgid "Please enter a new password"
-msgstr ""
+msgstr "Vui lòng nhập mật khẩu mới"
 
 #: easy-login-woocommerce/templates/global/xoo-el-resetpw-section.php:49
 msgid "Change Password"
-msgstr ""
+msgstr "Thay đổi mật khẩu"
 
 #: easy-login-woocommerce/templates/xoo-el-form.php:27
 msgid "Continue to resetting password"
-msgstr ""
+msgstr "Tiếp tục đặt lại mật khẩu"
 
 #: easy-login-woocommerce/xoo-form-fields-fw/admin/class-xoo-aff-fields.php:1224
 msgid "𖦏 Fetch Location"
@@ -377,4 +394,4 @@ msgstr ""
 
 #: easy-login-woocommerce/xoo-form-fields-fw/includes/class-xoo-aff.php:168
 msgid "Please enter a stronger password."
-msgstr ""
+msgstr "Vui lòng nhập mật khẩu mạnh hơn."
